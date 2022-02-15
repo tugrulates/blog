@@ -18,6 +18,7 @@ jobs:
       - uses: actions/checkout@v2
         with: 
           repository: tugrulates/tugrulates.github.io
+          token: ${{ secrets.PUBLISH_TOKEN }}
 
       - name: Pull & update submodules recursively
         run: |
@@ -25,8 +26,8 @@ jobs:
           git submodule update --recursive --remote
       - name: Commit
         run: |
-          git config user.email "actions@github.com"
-          git config user.name "GitHub Actions - update submodules"
+          git config user.email "${{ secrets.PUBLISH_EMAIL }}"
+          git config user.name "${{ secrets.PUBLISH_NAME }} [bot]"
           git add --all
           git commit -m "Update submodules" || echo "No changes to commit"
           git push
