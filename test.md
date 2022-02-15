@@ -12,8 +12,6 @@ published: true
 
 Testing build and formatting with this post. 
 
-Test update from Obsidian.
-
 ## Example formatting
 
 ### Text
