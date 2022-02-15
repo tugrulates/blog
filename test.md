@@ -10,7 +10,9 @@ published: true
 
 # Test post
 
-Testing build and formatting with this post.
+Testing build and formatting with this post. 
+
+Test update from Obsidian.
 
 ## Example formatting
 
