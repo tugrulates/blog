@@ -57,11 +57,10 @@ I want my publications available to everyone. You can find them here.
 
 [T. K. Ateş]: /
 [A. A, Alatan]: https://eee.metu.edu.tr/personel/aydin-alatan
-[E. Esen]: https://www.linkedin.com/in/ersin-esen-8b99051a0
-[A. Saracoğlu]: http://www.linkedin.com/in/ahmetsaracoglu
-[M. Soysal]: http://www.linkedin.com/pub/medeni-soysal/43/746/259
-[K. B. Loğoğlu]: http://www.linkedin.com/pub/berker-logoglu/1b/273/6b7
+[E. Esen]: https://www.linkedin.com/in/ersin-esen-8b99051a0/
+[A. Saracoğlu]: https://www.linkedin.com/in/ahmetsaracoglu/
+[M. Soysal]: https://www.linkedin.com/in/medeni-soysal-25974643/
+[K. B. Loğoğlu]: https://www.linkedin.com/in/berkerlogoglu/
 [Ü. Zubari]: https://www.linkedin.com/in/%C3%BCnal-zubari-768a60b8/
-[H. Sevimli]: http://www.linkedin.com/pub/hakan-sevimli/42/1a2/63a
-[Z. Doğan]: http://www.linkedin.com/pub/zafer-dogan/40/487/512
-[S. Tankız]: http://www.linkedin.com/pub/seda-tankiz/3b/4b5/845
+[H. Sevimli]: https://www.linkedin.com/in/hakan-sevimli/
+[S. Tankız]: https://www.linkedin.com/in/seda-tankiz-8454b53b/
