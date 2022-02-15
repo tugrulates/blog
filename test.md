@@ -2,7 +2,7 @@
 state: public
 date: 2022-02-11
 location: San Francisco, CA
-tags: meta
+tags: meta test
 use_math: true
 use_chart: true
 ---
