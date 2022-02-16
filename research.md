@@ -7,7 +7,7 @@ tags: research ai graphics
 
 # Research
 
-I want my publications available to everyone. You can find them here.
+I want my publications to be available to everyone. You can find them here.
 
 ## Master's Thesis
 
