@@ -3,6 +3,7 @@ state: public
 date: 2022-02-15
 location: San Francisco, CA
 description: I want my publications to be available to everyone. You can find them here.
+image: ./images/uzay-knowledge-transfer.jpg
 tags: research ai graphics
 ---
 

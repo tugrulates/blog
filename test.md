@@ -2,6 +2,7 @@
 state: draft
 date: 2022-02-11
 location: San Francisco, CA
+image: ./images/athens-abandoned-railroad.jpg
 tags: meta test
 use_math: true
 use_chart: true

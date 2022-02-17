@@ -3,6 +3,7 @@ state: public
 date: 2022-02-16
 location: San Francisco, CA
 description: I made demos. I want to introduce you to the world of demos by going through the work I produced.
+image: ./images/sceners-in-nature.jpg
 tags: coding graphics
 ---
 
