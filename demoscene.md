@@ -2,14 +2,15 @@
 state: public
 date: 2022-02-16
 location: San Francisco, CA
+description: I made demos. I want to introduce you to the world of demos by going through the work I produced.
 tags: coding graphics
 ---
 
 # Demoscene
 
-I made *demos*. These are artifacts of the human desire to showcase digital creation skills, including programming. I want to introduce you to the world of demos by going through the work I produced.
+I made *demos*. I want to introduce you to the world of demos by going through the work I produced.
 
-[Demoscene](https://en.wikipedia.org/wiki/Demoscene) is the niche subculture where programmers, designers and musicians work together to produce demos. They compete at events and distribute their work for free.
+Demos are artifacts of the human desire to showcase digital creation skills, including programming. [Demoscene](https://en.wikipedia.org/wiki/Demoscene) is the niche subculture where programmers, designers and musicians work together to produce demos. They compete at events and distribute their work for free.
 
 I was part of two demo groups, [Resident](https://www.residentland.info/) and [Deviance](https://deviance.untergrund.net/). My selected productions are listed below.
 
