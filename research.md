@@ -1,7 +1,7 @@
 ---
 state: public
-date: 2013-10-21
-location: Mountain View, CA
+date: 2022-02-15
+location: San Francisco, CA
 tags: research ai graphics
 ---
 
