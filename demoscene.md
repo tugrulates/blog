@@ -2,14 +2,14 @@
 state: public
 date: 2022-02-16
 location: San Francisco, CA
-description: I made demos. I want to introduce you to the world of demos by going through the work I produced.
+description: I made demos. I want to introduce the world of demos by going through the work I produced.
 cover: ./images/sceners-in-nature.jpg
 tags: coding graphics
 ---
 
 # Demoscene
 
-I made *demos*. I want to introduce you to the world of demos by going through the work I produced.
+I made *demos*. I want to introduce the world of demos by going through the work I produced.
 
 Demos are artifacts of the human desire to showcase digital creation skills, including programming. [Demoscene](https://en.wikipedia.org/wiki/Demoscene) is the niche subculture where programmers, designers and musicians work together to produce demos. They compete at events and distribute their work for free.
 
@@ -72,7 +72,7 @@ Windows XP is the version of Windows that can run tiny demos like Terapi and Ele
 
 I assume that anyone who has read this far was familiar with demoscene. If not, things will get more weird for the reader. As if that was a missing ingredient.
 
-Before papers, magazines were distributed with disks. That’s not correct but the point is that people used to distribute magazines on floppy disks. One would get a magazine disk, insert it into your disk drive, run the program inside the disk, and read articles that the code displayed.
+Before papers, magazines were distributed with disks. That’s not correct but the point is that people used to distribute magazines on floppy disks. One would get a magazine disk, insert it into the disk drive, run the program inside the disk, and read articles that the code displayed.
 
 [Worldcharts](https://worldcharts.untergrund.net/) was a magazine that was distributed as a disk image for [Amiga](https://en.wikipedia.org/wiki/Amiga) computers. I made a small demo, called Digital Paper, to promote its upcoming issue in 2006. That upcoming issue was never released. Even today, people make and distribute other disk magazines.
 
