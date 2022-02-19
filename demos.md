@@ -4,7 +4,7 @@ date: 2022-02-16
 location: San Francisco, CA
 description: I made demos. I want to introduce the world of demos by going through the work I produced.
 cover: ./images/sceners-in-nature.jpg
-tags: coding graphics
+tags: demoscene coding graphics
 ---
 
 # Demos
