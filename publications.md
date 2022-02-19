@@ -7,7 +7,7 @@ cover: ./images/cbmi-2009-conference-hall.jpg
 tags: research ai graphics
 ---
 
-# Research
+# Publications
 
 I want my publications to be available to everyone. You can find them here.
 

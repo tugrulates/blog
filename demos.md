@@ -7,7 +7,7 @@ cover: ./images/sceners-in-nature.jpg
 tags: coding graphics
 ---
 
-# Demoscene
+# Demos
 
 I made *demos*. I want to introduce the world of demos by going through the work I produced.
 
