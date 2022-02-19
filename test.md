@@ -4,7 +4,7 @@ date: 2022-02-11
 update: 2022-02-18
 location: San Francisco, CA
 description: Really really long description for no reason other than to test styling under really really long description. Even that wasn’t enough so I’m adding even more description the the already long description.
-tags: meta social math coding mentorship money home language design literature mind body
+tags: meta social math coding mentorship travel money home language design literature mind body
 use_math: true
 use_chart: true
 ---
