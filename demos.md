@@ -29,7 +29,7 @@ Nested is my first software project which has a scale that exceeds one source fi
 	<iframe title="watch Nested" class="video" src="https://www.youtube.com/embed/WV0IADM7yAI" allowfullscreen="true"></iframe>
 </figure>
 
-*Find reviews for Nested on [Pouët.net](http://www.pouet.net/prod.php?which=19042).*
+*Find reviews for Nested on [Pouët.net](https://www.pouet.net/prod.php?which=19042).*
 
 ## Caret
 
@@ -41,7 +41,7 @@ The whole project took three months and four people to complete.
 	<iframe title="watch Caret" class="video" src="https://www.youtube.com/embed/g-gs-hzkwyE"  allowfullscreen="true"></iframe>
 </figure>
 
-*Find reviews for Caret on [Pouët.net](http://www.pouet.net/prod.php?which=24206).*
+*Find reviews for Caret on [Pouët.net](https://www.pouet.net/prod.php?which=24206).*
 
 
 ## Terapi
@@ -54,7 +54,7 @@ Terapi takes less space than the previous paragraph on disk.
 	<iframe title="watch Terapi" class="video" src="https://www.youtube.com/embed/eKte-XEzf2Y"  allowfullscreen="true"></iframe>
 </figure>
 
-*Find reviews for Terapi on [Pouët.net](http://www.pouet.net/prod.php?which=27668).*
+*Find reviews for Terapi on [Pouët.net](https://www.pouet.net/prod.php?which=27668).*
 
 ## Elektroensefalogram
 
@@ -66,7 +66,7 @@ Windows XP is the version of Windows that can run tiny demos like Terapi and Ele
 	<iframe title="watch Terapi" title="watch Elektroensefalogram" class="video" src="https://www.youtube.com/embed/0iBog-PHdTM"  allowfullscreen="true"></iframe>
 </figure>
 
-*Find reviews for Elektroensefalogram on [Pouët.net](http://www.pouet.net/prod.php?which=30049).*
+*Find reviews for Elektroensefalogram on [Pouët.net](https://www.pouet.net/prod.php?which=30049).*
 
 ## Digital Paper
 
@@ -80,7 +80,7 @@ Before papers, magazines were distributed with disks. That’s not correct but t
 	<iframe title="watch Digital Paper" class="video" src="https://www.youtube.com/embed/ugMCWLOH3S4"  allowfullscreen="true"></iframe>
 </figure>
 
-*Find reviews for Digital Paper on [Pouët.net](http://www.pouet.net/prod.php?which=24516).*
+*Find reviews for Digital Paper on [Pouët.net](https://www.pouet.net/prod.php?which=24516).*
 
 ## Mission Completed Cracktro
 
@@ -96,7 +96,7 @@ There has been a noticeable pattern up to now. Yes, the cracking groups continue
 	<iframe title="watch Mission Completed Cracktro" class="video" src="https://www.youtube.com/embed/zpIvUk17oSk"  allowfullscreen="true"></iframe>
 </figure>
 
-*Find reviews for Mission Completed Cracktro on [Pouët.net](http://www.pouet.net/prod.php?which=24629).*
+*Find reviews for Mission Completed Cracktro on [Pouët.net](https://www.pouet.net/prod.php?which=24629).*
 
 ## Old Skool Cracktro
 
@@ -108,7 +108,7 @@ I became a hipster by making this other cracktro. The creative effort I made for
 	<iframe title="watch Old Skool Cracktro" class="video" src="https://www.youtube.com/embed/SR96BTEJMN4"  allowfullscreen="true"></iframe>
 </figure>
 
-*Find reviews for Old Skool Cracktro on [Pouët.net](http://www.pouet.net/prod.php?which=24391).*
+*Find reviews for Old Skool Cracktro on [Pouët.net](https://www.pouet.net/prod.php?which=24391).*
 
 ## 7D5 Invitation
 
@@ -122,7 +122,7 @@ I made an invitation animation for a party called [7DX](https://www.7dx-party.or
 	<iframe title="watch 7D5 Invitation" class="video" src="https://www.youtube.com/embed/fpp4sJjTup0"  allowfullscreen="true"></iframe>
 </figure>
 
-*Find reviews for 7D5 Invitation on [Pouët.net](http://www.pouet.net/prod.php?which=18411).*
+*Find reviews for 7D5 Invitation on [Pouët.net](https://www.pouet.net/prod.php?which=18411).*
 
 ## 7D7 Party Scroll
 
@@ -134,7 +134,7 @@ Party organizers can be hipsters like the demo coders. 7D7 featured a competitio
 	<iframe title="watch 7D7 Party Scroll" class="video" src="https://www.youtube.com/embed/LUDngAKi7qc"  allowfullscreen="true"></iframe>
 </figure>
 
-*Find reviews for 7D5 Invitation on [Pouët.net](http://www.pouet.net/prod.php?which=32072).*
+*Find reviews for 7D5 Invitation on [Pouët.net](https://www.pouet.net/prod.php?which=32072).*
 
 ## Revelation
 
@@ -146,7 +146,7 @@ At least the soundtrack saves the day for this [GP2X](https://en.wikipedia.org/w
 	<iframe title="watch Revelation" class="video" src="https://www.youtube.com/embed/Lm-w_pT6WOc"  allowfullscreen="true"></iframe>
 </figure>
 
-*Find reviews for Revelation on [Pouët.net](http://www.pouet.net/prod.php?which=27672).*
+*Find reviews for Revelation on [Pouët.net](https://www.pouet.net/prod.php?which=27672).*
 
 ## Lame
 
@@ -162,4 +162,4 @@ At one point, we got into watching demos together and the urge to make them was 
 	<iframe title="watch Lame" class="video" src="https://www.youtube.com/embed/FkZLPP77B34"  allowfullscreen="true"></iframe>
 </figure>
 
-*Find reviews for Lame on [Pouët.net](http://www.pouet.net/prod.php?which=26550).*
+*Find reviews for Lame on [Pouët.net](https://www.pouet.net/prod.php?which=26550).*
