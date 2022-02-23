@@ -26,7 +26,7 @@ Three minutes of graphical animation under 64 KiB is achieved by procedural gene
 Nested is my first software project which has a scale that exceeds one source file. It has around forty. However, it was not my project with the largest amount of lines that time. I was a big fan of gigantic single file coding and I think the style should be more popular.
 
 <figure class="video-container">
-	<iframe class="video" src="https://www.youtube.com/embed/WV0IADM7yAI" frameborder="0" allowfullscreen="true"></iframe>
+	<iframe title="watch Nested" class="video" src="https://www.youtube.com/embed/WV0IADM7yAI" allowfullscreen="true"></iframe>
 </figure>
 
 *Find reviews for Nested on [Pouët.net](http://www.pouet.net/prod.php?which=19042).*
@@ -38,7 +38,7 @@ Caret is my best effort. It has all the required ingredients for a good demo. It
 The whole project took three months and four people to complete.
 
 <figure class="video-container">
-	<iframe class="video" src="https://www.youtube.com/embed/g-gs-hzkwyE" frameborder="0" allowfullscreen="true"></iframe>
+	<iframe title="watch Caret" class="video" src="https://www.youtube.com/embed/g-gs-hzkwyE"  allowfullscreen="true"></iframe>
 </figure>
 
 *Find reviews for Caret on [Pouët.net](http://www.pouet.net/prod.php?which=24206).*
@@ -51,7 +51,7 @@ Easy it is to assume that nobody has time to make an animation that fits into 64
 Terapi takes less space than the previous paragraph on disk.
 
 <figure class="video-container">
-	<iframe class="video" src="https://www.youtube.com/embed/eKte-XEzf2Y" frameborder="0" allowfullscreen="true"></iframe>
+	<iframe title="watch Terapi" class="video" src="https://www.youtube.com/embed/eKte-XEzf2Y"  allowfullscreen="true"></iframe>
 </figure>
 
 *Find reviews for Terapi on [Pouët.net](http://www.pouet.net/prod.php?which=27668).*
@@ -63,7 +63,7 @@ Elektroensefalogram is a simple effect I implemented with x86 assembly and relea
 Windows XP is the version of Windows that can run tiny demos like Terapi and Elektroensefalogram. Emulators exists to make life more bearable for the people who like them.
 
 <figure class="video-container">
-	<iframe class="video" src="https://www.youtube.com/embed/0iBog-PHdTM" frameborder="0" allowfullscreen="true"></iframe>
+	<iframe title="watch Terapi" title="watch Elektroensefalogram" class="video" src="https://www.youtube.com/embed/0iBog-PHdTM"  allowfullscreen="true"></iframe>
 </figure>
 
 *Find reviews for Elektroensefalogram on [Pouët.net](http://www.pouet.net/prod.php?which=30049).*
@@ -77,7 +77,7 @@ Before papers, magazines were distributed with disks. That’s not correct but t
 [Worldcharts](https://worldcharts.untergrund.net/) was a magazine that was distributed as a disk image for [Amiga](https://en.wikipedia.org/wiki/Amiga) computers. I made a small demo, called Digital Paper, to promote its upcoming issue in 2006. That upcoming issue was never released. Even today, people make and distribute other disk magazines.
 
 <figure class="video-container">
-	<iframe class="video" src="https://www.youtube.com/embed/ugMCWLOH3S4" frameborder="0" allowfullscreen="true"></iframe>
+	<iframe title="watch Digital Paper" class="video" src="https://www.youtube.com/embed/ugMCWLOH3S4"  allowfullscreen="true"></iframe>
 </figure>
 
 *Find reviews for Digital Paper on [Pouët.net](http://www.pouet.net/prod.php?which=24516).*
@@ -93,7 +93,7 @@ Over time the *intro* parts became more and more involved through an arms race o
 There has been a noticeable pattern up to now. Yes, the cracking groups continue to exist and they continue to make animations that go along with their releases. I made animations for the cracking group Deviance. Mission Completed is one of them.
 
 <figure class="video-container">
-	<iframe class="video" src="https://www.youtube.com/embed/zpIvUk17oSk" frameborder="0" allowfullscreen="true"></iframe>
+	<iframe title="watch Mission Completed Cracktro" class="video" src="https://www.youtube.com/embed/zpIvUk17oSk"  allowfullscreen="true"></iframe>
 </figure>
 
 *Find reviews for Mission Completed Cracktro on [Pouët.net](http://www.pouet.net/prod.php?which=24629).*
@@ -105,7 +105,7 @@ Hipsters strive to be authentic and unique by *ironically* executing what societ
 I became a hipster by making this other cracktro. The creative effort I made for this intro was less demanding than writing this section. However, the intellectual message of the intro goes beyond its medium.
 
 <figure class="video-container">
-	<iframe class="video" src="https://www.youtube.com/embed/SR96BTEJMN4" frameborder="0" allowfullscreen="true"></iframe>
+	<iframe title="watch Old Skool Cracktro" class="video" src="https://www.youtube.com/embed/SR96BTEJMN4"  allowfullscreen="true"></iframe>
 </figure>
 
 *Find reviews for Old Skool Cracktro on [Pouët.net](http://www.pouet.net/prod.php?which=24391).*
@@ -119,7 +119,7 @@ I made an invitation animation for a party called [7DX](https://www.7dx-party.or
 *Invitros* are meant to create excitement before the party, convince nerds to be bothered to go outside once a year, and challenge other programmers to make something at least better than the invitation itself. On all three accounts, I regard this invitation a great success.
 
 <figure class="video-container">
-	<iframe class="video" src="https://www.youtube.com/embed/fpp4sJjTup0" frameborder="0" allowfullscreen="true"></iframe>
+	<iframe title="watch 7D5 Invitation" class="video" src="https://www.youtube.com/embed/fpp4sJjTup0"  allowfullscreen="true"></iframe>
 </figure>
 
 *Find reviews for 7D5 Invitation on [Pouët.net](http://www.pouet.net/prod.php?which=18411).*
@@ -131,7 +131,7 @@ All software projects go over their deadline. Demos are no exception. When the d
 Party organizers can be hipsters like the demo coders. 7D7 featured a competition that asked the attendees to do party coding for the sake of tradition. This scroller is what I came up with.
 
 <figure class="video-container">
-	<iframe class="video" src="https://www.youtube.com/embed/LUDngAKi7qc" frameborder="0" allowfullscreen="true"></iframe>
+	<iframe title="watch 7D7 Party Scroll" class="video" src="https://www.youtube.com/embed/LUDngAKi7qc"  allowfullscreen="true"></iframe>
 </figure>
 
 *Find reviews for 7D5 Invitation on [Pouët.net](http://www.pouet.net/prod.php?which=32072).*
@@ -143,7 +143,7 @@ There is party coding and there is *someone handing you a device which you have 
 At least the soundtrack saves the day for this [GP2X](https://en.wikipedia.org/wiki/GP2X) intro.
 
 <figure class="video-container">
-	<iframe class="video" src="https://www.youtube.com/embed/Lm-w_pT6WOc" frameborder="0" allowfullscreen="true"></iframe>
+	<iframe title="watch Revelation" class="video" src="https://www.youtube.com/embed/Lm-w_pT6WOc"  allowfullscreen="true"></iframe>
 </figure>
 
 *Find reviews for Revelation on [Pouët.net](http://www.pouet.net/prod.php?which=27672).*
@@ -159,7 +159,7 @@ We hanged out to write recreational code for sleepless days fueled by coffee and
 At one point, we got into watching demos together and the urge to make them was not far ahead. After a period of scribbling, we made this little intro filled with simple 2d effects. The *coder color* charm is compounded with the catchy tune. The rest; we covered it earlier.
 
 <figure class="video-container">
-	<iframe class="video" src="https://www.youtube.com/embed/FkZLPP77B34" frameborder="0" allowfullscreen="true"></iframe>
+	<iframe title="watch Lame" class="video" src="https://www.youtube.com/embed/FkZLPP77B34"  allowfullscreen="true"></iframe>
 </figure>
 
 *Find reviews for Lame on [Pouët.net](http://www.pouet.net/prod.php?which=26550).*
