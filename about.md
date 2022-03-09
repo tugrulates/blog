@@ -1,8 +1,7 @@
 ---
-state: draft
+draft: true
 date: 2022-02-17
 location: San Francisco, CA
-description: todo
 tags: self meta
 ---
 
