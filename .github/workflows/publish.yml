@@ -21,14 +21,11 @@ jobs:
           token: ${{ secrets.PUBLISH_TOKEN }}
 
       - name: Pull & update submodules recursively
-        run: |
-          git submodule update --init --recursive
-          git submodule update --recursive --remote
+        run: git submodule update --init --recursive --remote docs
       - name: Commit
         run: |
           git config user.email "${{ secrets.PUBLISH_EMAIL }}"
           git config user.name "${{ secrets.PUBLISH_NAME }} [bot]"
           git add --all
-          git commit -m "Update submodules" || echo "No changes to commit"
+          git commit -m "Update docs" || echo "No changes to commit"
           git push
-          echo test, and deploy your project.
