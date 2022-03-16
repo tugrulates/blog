@@ -17,7 +17,7 @@ This is a text with _italic_, **bold** and `code` words.
 
 ### Links
 
-This is a link to another post on the site: [about](../about2.md) or [Test](test-post.md)
+This is a link to another post on the site: [about](about.md) or [test](test.md)
 
 This is a link to another site: [GitHub](https://www.github.com/)
 
