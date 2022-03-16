@@ -9,7 +9,7 @@ tags: research ai graphics
 
 # Research
 
-I published professionally and a student. My research has revolved around computer vision, computer graphics, video processing and content understanding. I want my publications to be available to everyone. You can find them here.
+I published professionally and a student. My research revolved around computer vision, computer graphics, video processing and content understanding. I want my publications to be available to everyone. You can find them here.
 
 You can find more information about these publications on [ResearchGate](https://www.researchgate.net/profile/Tugrul-Ates) and [Google Scholar](https://scholar.google.com/citations?user=ZdYOsOwAAAAJ).
 
