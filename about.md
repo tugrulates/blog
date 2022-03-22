@@ -1,5 +1,5 @@
 ---
-draft: true
+state: stub
 date: 2022-02-17
 loc: San Francisco, CA
 tags: self meta
