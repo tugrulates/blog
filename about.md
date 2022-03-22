@@ -1,7 +1,7 @@
 ---
 draft: true
 date: 2022-02-17
-location: San Francisco, CA
+loc: San Francisco, CA
 tags: self meta
 ---
 

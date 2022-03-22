@@ -1,7 +1,7 @@
 ---
 date: 2022-02-11
 updated: 2022-03-11
-location: San Francisco, CA
+loc: San Francisco, CA
 tags: meta social craft business travel money home language design culture health unknown
 ---
 

@@ -2,7 +2,7 @@
 draft: false
 date: 2022-02-15
 updated: 2022-02-15
-location: San Francisco, CA
+loc: San Francisco, CA
 cover: photos/cbmi-2009-conference-hall.jpg
 tags: research ai graphics
 ---
