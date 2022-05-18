@@ -3,7 +3,7 @@ state: public
 date: 2022-05-17
 loc: San Francisco, CA
 cover: photos/chihuly-glass-boat.jpg
-tags: mind career
+tags: philosophy mind career
 ---
 
 # Babies are not smart
