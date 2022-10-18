@@ -6,8 +6,6 @@ cover: photos/chihuly-glass-boat.jpg
 tags: philosophy mind career
 ---
 
-# Object permanence
-
 Anyone who spent time with a baby knows that they are incapable of giving solid financial advice. Do not expect a baby to enlighten you with insights about ongoing worldly affairs. It is a good thing that laws do not allow babies to drive and I am glad that they are barred from running for president.
 
 Taking part in our complex societal adult life is no easy task. I know that it is harsh to expect to a newborn to excel at it. Yet, the further we lower the bar, the dumber we will find babies to be. Sure, they can not be not trusted with operating motorized vehicles. But why are they incapable of even riding a bicycle? You may want them to show competency in basic math. They will disappoint.
