@@ -5,6 +5,4 @@ loc: San Francisco, CA
 tags: self meta
 ---
 
-# About
-
 Congratulations for finding this page! You get a cookie 🍪!
