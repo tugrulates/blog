@@ -6,8 +6,6 @@ cover: photos/sceners-in-nature.jpg
 tags: demoscene coding graphics
 ---
 
-# Demoscene
-
 *Demos* are artifacts of the human desire to showcase digital creation skills, including programming. [Demoscene](https://en.wikipedia.org/wiki/Demoscene) is the niche subculture where programmers, designers and musicians work together to produce demos. They compete at events and distribute their work for free.
 
 I was part of two demo groups, [Resident](https://www.residentland.info/) and [Deviance](https://deviance.untergrund.net/) and I produced the demos listed in this page. I want to introduce this world by going through my demography. I know that demography means something else.

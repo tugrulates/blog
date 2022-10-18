@@ -3,10 +3,8 @@ state: draft
 date: 2022-02-11
 updated: 2022-03-11
 loc: San Francisco, CA
-tags: meta social craft business travel money home language design culture health unknown
+tags: meta social craft business travel money home language design culture health
 ---
-
-# Test post with a really long title. Because you are supposed to handle these well.
 
 Testing build and formatting with this post. And this paragraph is intentionally kept longer than seemingly necessary. This is needed to show how the summaries would look like.
 
@@ -18,7 +16,7 @@ This is a text with _italic_, **bold** and `code` words.
 
 ### Links
 
-This is a link to another post on the site: [about](about.md) or [test](test.md)
+This is a link to another post on the site: [About](About.md) or [[Test post]]
 
 This is a link to another site: [GitHub](https://www.github.com/)
 
@@ -151,7 +149,7 @@ flowchart LR
 
 [^2]: Hey, you found me!
 
-![](./photos/roundest-object-on-earth.webp)
+![](roundest-object-on-earth.jpg)
 
 ### Header 3
 
