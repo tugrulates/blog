@@ -3,7 +3,6 @@ name: Publish
 on:
   push:
     branches: [main]
-
   workflow_dispatch:
 
 jobs:
@@ -15,7 +14,7 @@ jobs:
         with:
           repository: tugrulates/blog-code
           ref: staging
-          token: ${{ secrets.PUBLISH_TOKEN }}
+          token: ${{ github.token }}
       - run: |
           git submodule update --init --recursive --remote docs
           git config user.email "actions@github.com"
