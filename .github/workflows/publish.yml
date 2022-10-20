@@ -1,13 +1,9 @@
-name: Doc publish
+name: Publish
 
 on:
-  # Triggers the workflow on push or pull request events but only for the main branch
   push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
+    branches: [main]
 
-  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
 jobs:
@@ -15,17 +11,15 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
-        with: 
-          repository: tugrulates/tugrulates.github.io
+      - uses: actions/checkout@v3
+        with:
+          repository: tugrulates/blog-code
           token: ${{ secrets.PUBLISH_TOKEN }}
-
-      - name: Pull & update submodules recursively
-        run: git submodule update --init --recursive --remote docs
-      - name: Commit
-        run: |
-          git config user.email "${{ secrets.PUBLISH_EMAIL }}"
-          git config user.name "${{ secrets.PUBLISH_NAME }} [bot]"
+      - run: |
+          git checkout staging
+          git submodule update --init --recursive --remote docs
+          git config user.email "actions@github.com"
+          git config user.name "GitHub Actions"
           git add --all
           git commit -m "Update docs" || echo "No changes to commit"
           git push
