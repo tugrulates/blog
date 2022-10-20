@@ -17,8 +17,8 @@ jobs:
           token: ${{ secrets.PUBLISH_TOKEN }}
       - run: |
           git submodule update --init --recursive --remote docs
-          git config user.email "actions@github.com"
-          git config user.name "GitHub Actions"
+          git config user.name github-actions
+          git config user.email github-actions@github.com
           git add --all
           git commit -m "Update docs" || echo "No changes to commit"
           git push
