@@ -3,22 +3,17 @@ name: Publish
 on:
   push:
     branches: [main]
-  workflow_dispatch:
 
 jobs:
   publish:
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@v3
-        with:
-          repository: tugrulates/blog-code
-          ref: staging
-          token: ${{ secrets.PUBLISH_TOKEN }}
-      - run: |
-          git submodule update --init --recursive --remote docs
-          git config user.email "actions@github.com"
-          git config user.name "GitHub Actions"
-          git add --all
-          git commit -m "Update docs" || echo "No changes to commit"
-          git push
+      - name: Trigger publish
+        # newer versions of curl: curl --fail-with-body
+        run: |
+          curl --silent --show-error --fail \
+            -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer ${{ secrets.PUBLISH_TOKEN }}" \
+            https://api.github.com/repos/${{ github.repository_owner }}/blog-code/dispatches \
+            -d '{"event_type":"Publish"}'
