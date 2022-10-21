@@ -9,8 +9,10 @@ jobs:
   publish:
     runs-on: ubuntu-latest
     steps:
+     # Newer versions of curl: curl --fail-with-body
+     # To fail: --silent --show-error --fail \
       - run: |
-          curl --silent --show-error --fail \
+          curl \
             "https://api.github.com/repos/${{ github.repository_owner }}/blog-code/dispatches" \
               -H "Authorization: token ${{ secrets.PUBLISH_TOKEN }}" \
               -H "Accept: application/vnd.github.everest-preview+json" \
