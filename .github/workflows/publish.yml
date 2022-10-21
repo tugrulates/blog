@@ -10,6 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: |
+          curl --version
           curl --fail-with-body \
             "https://api.github.com/repos/${{ github.repository_owner }}/blog-code/dispatches" \
               -H "Authorization: token ${{ secrets.PUBLISH_TOKEN }}" \
