@@ -6,7 +6,7 @@ loc: San Francisco, CA
 tags: meta social craft business travel money home language design culture health
 ---
 
-Testing build and formatting with this post. This paragraph is intentionally kept longer than seemingly necessary. This is needed to show how the summaries would look like.
+Testing build and formatting with this post. The paragraph is intentionally kept longer than seemingly necessary. This is needed to show how the summaries would look like.
 
 ## Example formatting
 
