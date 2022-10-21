@@ -30,7 +30,7 @@ This is a link to another site: [GitHub](https://www.github.com/)
 
 ### Footnote
 
-This is comment with a footnote. [^1] This sentence has another footnote whose definition is at the end of the document. [^2]
+This is a comment with a footnote. [^1] This sentence has another footnote whose definition is at the end of the document. [^2]
 
 This is yet another one. [^3]
 
@@ -84,7 +84,7 @@ $\pi$ is equal to $\sqrt{-1}$.
 
 $$x_{1,2} = \frac{-b \pm \sqrt{b^2-4ac}}{2b}$$
 
-I have 500$ but I need 200$ more.
+I have $500, but I need $200 more.
 
 I can still escape the \\$ sign.
 

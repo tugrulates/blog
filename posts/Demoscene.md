@@ -6,19 +6,19 @@ cover: photos/sceners-in-nature.jpg
 tags: demoscene coding graphics
 ---
 
-*Demos* are artifacts of the human desire to showcase digital creation skills, including programming. [Demoscene](https://en.wikipedia.org/wiki/Demoscene) is the niche subculture where programmers, designers and musicians work together to produce demos. They compete at events and distribute their work for free.
+*Demos* are artifacts of the human desire to showcase digital creation skills, including programming. [Demoscene](https://en.wikipedia.org/wiki/Demoscene) is the niche subculture where programmers, designers, and musicians work together to produce demos. They compete at events and distribute their work for free.
 
-I was part of two demo groups, [Resident](https://www.residentland.info/) and [Deviance](https://deviance.untergrund.net/) and I produced the demos listed in this page. I want to introduce this world by going through my demography. I know that demography means something else.
+I was part of two demo groups, [Resident](https://www.residentland.info/) and [Deviance](https://deviance.untergrund.net/), and I produced the demos listed in this page. I want to introduce this world by going through my demography. Yes, I know that demography means something else.
 
 ## Nested
 
-Nested is my first serious attempt at making a demo. It features basic 3d. There is scenery, camera motion, transitions, fog, shadow, and more complicated volumetric effects.
+Nested is my first serious attempt at making a demo. It features basic 3D. There is scenery, camera motion, transitions, fog, shadow, and more complicated volumetric effects.
 
 Nested is size restricted to [64 kibibytes](https://en.wikipedia.org/wiki/64K_intro). For comparison, this post is 9 KiB before the images, and the video for Nested is 30 MiB, which is five hundred times as big.
 
-Three minutes of graphical animation under 64 KiB is achieved by procedural generation of 3d models, textures and camera paths. The soundtrack is a tracking file and the images use custom fitted formats. Finally, the executable file is a compressed package that decompresses itself when run.
+Three minutes of graphical animation under 64 KiB is achieved by procedural generation of 3D models, textures, and camera paths. The soundtrack is a tracking file, and the images use custom fitted formats. Finally, the executable file is a compressed package that decompresses itself when run.
 
-Nested is my first software project which has a scale that exceeds one source file. It has around forty. However, it was not my project with the largest amount of lines that time. I was a big fan of gigantic single file coding and I think the style should be more popular.
+Nested is my first software project which has a scale that exceeds one source file. It has around forty. However, it was not my project with the largest number of lines that time. I was a big fan of gigantic single file coding and I think the style should be more popular.
 
 {{ youtube(id="WV0IADM7yAI") }}
 
@@ -26,7 +26,7 @@ _Find reviews for Nested on [Pouët.net](https://www.pouet.net/prod.php?which=19
 
 ## Caret
 
-Caret is my best effort. It has all the required ingredients for a good demo. It has a catchy tune and matching choreography. It has cool visuals which are not limited to wormholes, cubes and fractals. However, the _party trick_ of Caret is that it runs on the Windows command-line prompt.
+Caret is my best effort. It has all the required ingredients for a good demo. It has a catchy tune, matching choreography, as well as cool visuals which are not limited to wormholes, cubes, and fractals. However, the _party trick_ of Caret is that it runs on the Windows command-line prompt.
 
 The whole project took three months and four people to complete.
 
@@ -56,7 +56,7 @@ _Find reviews for Elektroensefalogram on [Pouët.net](https://www.pouet.net/prod
 
 ## Digital Paper
 
-I assume that anyone who has read this far was familiar with demoscene. If not, things will get more weird for the reader. As if that was a missing ingredient.
+I assume that anyone who has read this far was familiar with demoscene. If not, things will get weirder for the reader. As if that were a missing ingredient.
 
 Before papers, magazines were distributed with disks. That’s not correct, but the point is that people used to distribute magazines on floppy disks. One would get a magazine disk, insert it into the disk drive, run the program inside the disk, and read articles that the code displayed.
 
@@ -72,9 +72,9 @@ In the early days of personal computing, a group of programmers made and sold so
 
 The software crackers, keen on getting themselves attributed on their _releases_, added their handles and notes to the programs they cracked. The original copy of the software introduced the original makers of the program, whereas the cracked copies would introduce the crackers instead.
 
-Over time the _intro_ parts became more and more involved through an arms race of programming between cracking groups. People started adding animations that became a showcase of their skills, at times eclipsing the cracking effort itself. They would try to one up each other on how certain visual effects are implemented. Demoscene finds its roots in this competition between cracking groups.
+Over time, the _intro_ parts became more and more involved through an arms race of programming between cracking groups. People started adding animations that became a showcase of their skills, at times eclipsing the cracking effort itself. They would try to one up each other on how certain visual effects are implemented. Demoscene finds its roots in this competition between cracking groups.
 
-The cracking groups continue to exist and they continue to make animations that go along with their releases. I made animations for the cracking group Deviance. Mission Completed is one of them.
+The cracking groups continue to exist, and they continue to make animations that go along with their releases. I made animations for the cracking group Deviance. Mission Completed is one of them.
 
 {{ youtube(id="zpIvUk17oSk") }}
 
@@ -82,7 +82,7 @@ _Find reviews for Mission Completed Cracktro on [Pouët.net](https://www.pouet.n
 
 ## Old Skool Cracktro
 
-Hipsters strive to be authentic and unique by _ironically_ executing what society finds classical and conformant. Demoscene has its own hipsters which take visual effects that were a challenge to make on 4 MHz computers and re-implement them on 2 GHz ones.
+Hipsters strive to be authentic and unique by _ironically_ executing what society finds classical and conformant. Demoscene has its own hipsters, which take visual effects that were a challenge to make on 4 MHz computers and re-implement them on 2 GHz ones.
 
 I became a hipster by making this other cracktro. The creative effort I made for this intro was less demanding than writing this section. However, the intellectual message of the intro goes beyond its medium.
 
@@ -106,7 +106,7 @@ _Find reviews for 7D5 Invitation on [Pouët.net](https://www.pouet.net/prod.php?
 
 All software projects go over their deadline. Demos are no exception. When the deadline is an annual event that cannot be flexibly scheduled, the result is predictable. Sleepless hours coding the last parts of your demo while your buddy is sleeping under your desk is a common occurrence. This sacred ritual is called _party coding_.
 
-Party organizers can be hipsters like the demo coders. 7D7 featured a competition that asked the attendees to do party coding for the sake of tradition. This scroller is what I came up with.
+Party organizers can be hipsters like the demo coders. 7D7 featured a competition that asked the attendees to do party coding for tradition. This scroller is what I came up with.
 
 {{ youtube(id="LUDngAKi7qc") }}
 
@@ -124,9 +124,9 @@ _Find reviews for Revelation on [Pouët.net](https://www.pouet.net/prod.php?whic
 
 ## Lame
 
-This intro is the perfect place the end this chronology.
+This intro is the perfect place to end this chronology.
 
-I met my friend Talha ([flexi](https://twitter.com/flexi_bullet)) on a web forum, even though we were attending the same high school at that time. We shared our interests in programming, math, music and philosophy. _Digital creativity_ is what I would call what we were into.
+I met my friend Talha ([flexi](https://twitter.com/flexi_bullet)) on a web forum, even though we were attending the same high school at that time. We shared our interests in programming, math, music, and philosophy. _Digital creativity_ is what I would call what we were into.
 
 We hanged out to write recreational code for sleepless days fueled by coffee and tea. At one point, we got into watching demos together and the urge to make them was not far ahead. After a period of scribbling, we made this little intro filled with simple 2d effects. The _coder color_ charm is compounded with the catchy tune. The rest; we covered it earlier.
 

@@ -5,4 +5,4 @@ loc: San Francisco, CA
 tags: self meta
 ---
 
-Congratulations for finding this page! You get a cookie 🍪!
+Congratulations on finding this page! You get a cookie 🍪!

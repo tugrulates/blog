@@ -6,9 +6,9 @@ cover: photos/cbmi-2009-conference-hall.jpg
 tags: research ai graphics
 ---
 
-I published professionally and as a student. My research revolved around computer vision, computer graphics, video processing and content understanding. I want my publications to be available to everyone. You can find them here.
+I published professionally and as a student. My research was about computer vision, computer graphics, video processing and content understanding. I want my publications to be available to everyone. You can find them here.
 
-You can find more information about these publications on [ResearchGate](https://www.researchgate.net/profile/Tugrul-Ates) and [Google Scholar](https://scholar.google.com/citations?user=ZdYOsOwAAAAJ).
+More information about these publications can be found on [ResearchGate](https://www.researchgate.net/profile/Tugrul-Ates) and [Google Scholar](https://scholar.google.com/citations?user=ZdYOsOwAAAAJ).
 
 ## Master's Thesis
 
