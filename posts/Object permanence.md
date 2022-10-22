@@ -2,7 +2,7 @@
 state: public
 date: 2022-05-17
 loc: San Francisco, CA
-cover: photos/chihuly-glass-boat.jpg
+cover: /photos/chihuly-glass-boat.jpg
 tags: philosophy mind career
 ---
 

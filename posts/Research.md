@@ -2,7 +2,7 @@
 state: public
 date: 2022-02-15
 loc: San Francisco, CA
-cover: photos/cbmi-2009-conference-hall.jpg
+cover: /photos/cbmi-2009-conference-hall.jpg
 tags: research ai graphics
 ---
 
