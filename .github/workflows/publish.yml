@@ -16,7 +16,7 @@ jobs:
         with:
           github-token: ${{ secrets.PUBLISH_TOKEN }}
           script: |
-            github.rest.dispatches.createDispatchEvent({
+            github.rest.repos.createDispatchEvent({
               owner: "tugrulates",
               repo: "blog-code",
               event_type: "Publish",
