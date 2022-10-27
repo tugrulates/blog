@@ -14,6 +14,7 @@ jobs:
       - name: Trigger publish
         uses: actions/github-script@v6
         with:
+          github-token: ${{ secrets.PUBLISH_TOKEN }}
           script: |
             github.rest.dispatches.createDispatchEvent({
               owner: "tugrulates",
