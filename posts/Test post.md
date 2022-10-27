@@ -48,7 +48,7 @@ if __name__ == '__main__':
     func(10)
 ```
 
-```javascript,linenos
+```javascript
 function switchLight() {
   const theme = $("html").css("--light") > 0.5 ? "dark" : "light";
   console.log(theme);
