@@ -3,17 +3,18 @@ name: Publish
 on:
   push:
     branches: [main]
+  workflow_dispatch:
 
 jobs:
   publish:
     runs-on: ubuntu-latest
     steps:
       - name: Trigger publish
-        # newer versions of curl: curl --fail-with-body
-        run: |
-          curl --silent --show-error --fail \
-            -X POST \
-            -H "Accept: application/vnd.github+json" \
-            -H "Authorization: Bearer ${{ secrets.PUBLISH_TOKEN }}" \
-            https://api.github.com/repos/${{ github.repository_owner }}/blog-code/dispatches \
-            -d '{"event_type":"Publish"}'
+        uses: actions/github-script@v6
+        with:
+          script: |
+            github.rest.dispatches.createDispatchEvent({
+              owner: "tugrulates",
+              repo: "blog-code",
+              event_type: "Publish",
+            })
