@@ -18,7 +18,7 @@ This is a text with _italic_, **bold** and `code` words.
 
 This is a link to another post on the site: [About](About.md) or [[Test post]]
 
-This is a link to another site: [GitHub](https://www.github.com/)
+This is a link to another site: [GitHub](https://github.com/)
 
 ### Blockquotes
 
