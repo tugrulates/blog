@@ -149,7 +149,7 @@ flowchart LR
 
 [^2]: Hey, you found me!
 
-![](photos/roundest-object-on-earth.jpg)
+![](/photos/roundest-object-on-earth.jpg)
 
 ### Header 3
 
