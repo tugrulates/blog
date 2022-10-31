@@ -139,12 +139,6 @@ flowchart LR
 2. two
 3. three
 
-#### Check lists
-
-- [x] one
-- [ ] two
-- [ ] three
-
 ### Images
 
 [^2]: Hey, you found me!
