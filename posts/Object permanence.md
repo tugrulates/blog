@@ -3,7 +3,7 @@ state: public
 date: 2022-05-17
 loc: San Francisco, CA
 cover: /photos/chihuly-glass-boat.jpg
-tags: philosophy mind career
+tags: [philosophy, mind, career]
 ---
 
 Anyone who spent time with a baby knows that they are incapable of giving solid financial advice. Do not expect a baby to enlighten you with insights about ongoing worldly affairs. It is a good thing that laws do not allow babies to drive, and I am glad that they are barred from running for president.

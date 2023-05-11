@@ -3,7 +3,7 @@ state: public
 date: 2022-02-15
 loc: San Francisco, CA
 cover: /photos/cbmi-2009-conference-hall.jpg
-tags: research ai graphics
+tags: [research, ai, graphics]
 ---
 
 I published professionally and as a student. My research was about computer vision, computer graphics, video processing and content understanding. I want my publications to be available to everyone. You can find them here.

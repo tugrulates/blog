@@ -3,7 +3,7 @@ state: public
 date: 2022-02-16
 loc: San Francisco, CA
 cover: /photos/sceners-in-nature.jpg
-tags: demoscene coding graphics
+tags: [demoscene, coding, graphics]
 ---
 
 *Demos* are artifacts of the human desire to showcase digital creation skills, including programming. [Demoscene](https://en.wikipedia.org/wiki/Demoscene) is the niche subculture where programmers, designers, and musicians work together to produce demos. They compete at events and distribute their work for free.

@@ -3,7 +3,7 @@ state: draft
 date: 2022-02-11
 updated: 2022-03-11
 loc: San Francisco, CA
-tags: meta social craft business travel money home language design culture health
+tags: [meta, social, craft, business, travel, money, home, language, design, culture, health]
 ---
 
 Testing build and formatting with this post. The paragraph is intentionally kept longer than seemingly necessary. This is needed to show how the summaries would look like.
