@@ -18,7 +18,7 @@ Nested is size restricted to [64 kibibytes](https://en.wikipedia.org/wiki/64K_in
 
 Three minutes of graphical animation under 64 KiB is achieved by procedural generation of 3D models, textures, and camera paths. The soundtrack is a tracking file, and the images use custom fitted formats. Finally, the executable file is a compressed package that decompresses itself when run.
 
-Nested is my first software project which has a scale that exceeds one source file. It has around forty. However, it was not my project with the largest number of lines that time. I was a big fan of gigantic single file coding and I think the style should be more popular.
+Nested is my first software project which has a scale that exceeds one source file. It has around forty. However, it was not my project with the largest number of lines by that time. I was a big fan of gigantic single file coding and I think the style should be more popular.
 
 {{ youtube(id="WV0IADM7yAI") }}
 
@@ -70,7 +70,7 @@ _Find reviews for Digital Paper on [Pouët.net](https://www.pouet.net/prod.php?w
 
 In the early days of personal computing, a group of programmers made and sold software. Another group of programmers removed copy protection from that software and redistributed it for free. This latter effort was known as [software cracking](https://en.wikipedia.org/wiki/Software_cracking).
 
-The software crackers, keen on getting themselves attributed on their _releases_, added their handles and notes to the programs they cracked. The original copy of the software introduced the original makers of the program, whereas the cracked copies would introduce the crackers instead.
+The software crackers, keen on getting themselves attributed on their _releases_, added their handles and notes to the programs they cracked. The original copy of the software introduced the original makers of the program, whereas the cracked copies would introduce the crackers.
 
 Over time, the _intro_ parts became more and more involved through an arms race of programming between cracking groups. People started adding animations that became a showcase of their skills, at times eclipsing the cracking effort itself. They would try to one up each other on how certain visual effects are implemented. Demoscene finds its roots in this competition between cracking groups.
 

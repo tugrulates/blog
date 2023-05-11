@@ -28,4 +28,4 @@ I can allocate twelve hours a day, six times a week, doing menial tasks with the
 
 Since I am not a baby, I know that my time is more optimally spent on acquiring new things than cherishing what I have. I can always postpone my plans to have joyful moments with people who I love. Even if I hurt other people with my anger, I can always mend my relationships later. I have played enough peekaboo to know that other people will not cease to exist suddenly and unexpectedly.
 
-Babies live in the current moment. They can be irrationally joyful and laugh hysterically at things adults find mundane. This is because they have not realized that they have all the time in the world to experience something better in the future, and therefore they can subdue their emotions. Babies are not smart. Thankfully, I am superior to them.
+Babies live in the current moment. They can be irrationally joyful and laugh hysterically at things adults find mundane. This is because they have not realized that they have all the time in the world to experience something better in the future. Therefore, they cannot subdue their emotions. Babies are not smart. Thankfully, I am superior to them.
