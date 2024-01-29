@@ -1,5 +1,6 @@
 ---
 title: Object Permanence
+description: Babies cannot ride bicycles, nor give financial advice. You may want them to show competency in basic math. They will disappoint. Yes, they are full of potential but they are also dumb. I am glad that I am not a baby.
 draft: false
 date: 2022-05-17
 cover: wheel-in-the-sky
