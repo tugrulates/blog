@@ -8,13 +8,5 @@ jobs:
   publish:
     runs-on: ubuntu-latest
     steps:
-      - name: Trigger publish
-        uses: actions/github-script@v6
-        with:
-          github-token: ${{ secrets.PUBLISH_TOKEN }}
-          script: |
-            github.rest.repos.createDispatchEvent({
-              owner: "tugrulates",
-              repo: "blog-code",
-              event_type: "Publish",
-            })
+      - name: Publish to website
+        run: curl -X POST ${{ secrets.DEPLOY_HOOK }}
